@@ -1,0 +1,30 @@
+/* Estilos del main */
+main{
+  font-family: 'Pavanam', sans-serif;
+  height: 400px;
+  padding: 1em;
+  width: 100%;
+
+}
+/* Estilos de span dentro del elemneto parrafo de contacto  */
+span{
+  color: purple;
+  font-weight: bold;
+}
+/* Estilos de las clases del main */
+.style-btn{
+  background-color: #823ebb;
+  border-radius: 5px;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 10px;
+  text-decoration: none;
+}
+.style-btn:hover{
+  background-color: #52e5d1;
+}
+.style-main-contact{
+  letter-spacing: 0.05em;
+  padding: 1em;
+}
