@@ -23,8 +23,13 @@ span{
 }
 .style-btn:hover{
   background-color: #52e5d1;
+  padding: 1em;
 }
 .style-main-contact{
+  letter-spacing: 0.05em;
+  padding: 1em;
+}
+.style-main-what{
   letter-spacing: 0.05em;
   padding: 1em;
 }
